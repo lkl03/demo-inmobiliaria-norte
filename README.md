@@ -1,2 +1,7 @@
-# demo-inmobiliaria-norte
-Demo web para Inmobiliaria Norte — diseñada por eterlab.
+# Inmobiliaria Norte
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
